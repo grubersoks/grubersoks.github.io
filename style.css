@@ -1,0 +1,11 @@
+p {color:#458888;}
+p {margin: 400px}
+
+
+body {
+	background-color: #333333;
+	background-image: url(pegs/61.jpg);
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	background-position: top;
+}
